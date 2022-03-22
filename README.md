@@ -1,7 +1,9 @@
-<h1>Olá Dev´s</h1>
+<h1>Hello World<!!/h1>
+ <img src="https://png.pngtree.com/element_our/20200702/ourlarge/pngtree-cartoon-earth-outline-element-image_2284081.jpg">
 
-- 🔭 Atualmente faço apenas pequenas páginas.
+- 🔭 Estou em transição de carreira.
 - 🌱 Atualmente eu estudo HTML, CSS, JavaScript e alguns Frameworks
+
 <h2> Linguagens e Ferramentas</h2>
  <div> 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
