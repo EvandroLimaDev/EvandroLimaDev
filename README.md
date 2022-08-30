@@ -3,7 +3,7 @@
  <img src="https://png.pngtree.com/element_our/20200702/ourlarge/pngtree-cartoon-earth-outline-element-image_2284081.jpg">
 
 - 🔭 Estou em transição de carreira.
-- 🌱 Atualmente eu estudo HTML, CSS, JavaScript e alguns Frameworks
+- 🌱 Atualmente eu estou na faculdade, cursando o curso de ADS! estou estudando HTML, CSS, JavaScript, Python e C#
 
 <h2> Linguagens e Ferramentas</h2>
  <div> 
